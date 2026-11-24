@@ -8,19 +8,23 @@ Este repositorio solo tiene el sitio generado. El curso está en preparación: l
 
 | # | Capítulo |
 |---|---|
-| 01 | Qué es una casa de bolsa y qué hace por dentro |
-| 02 | El mercado de valores y sus participantes |
-| 03 | Abrir la cuenta: identidad, perfil e idoneidad |
+| 01 | Qué es una casa de bolsa: sus áreas y sus sistemas |
+| 02 | El mercado de valores como una red de infraestructuras |
+| 03 | Abrir la cuenta: identidad digital, perfil e idoneidad |
 | 04 | Tipos de orden: a mercado, limitada, *stop* y más |
-| 05 | El libro de órdenes y el calce |
-| 06 | La ruta de una orden: del botón al mercado y de vuelta |
-| 07 | Compensación y liquidación: entrega contra pago |
-| 08 | Custodia: dónde están tus acciones y qué les pasa |
-| 09 | Renta fija, reportos, fondos y divisas: la operativa de otros mercados |
-| 10 | Datos de mercado: precios en tiempo real |
-| 11 | La plataforma: app, OMS, *back office* y APIs |
-| 12 | Emisiones: la casa de bolsa como estructurador y colocador |
-| 13 | Comisiones y modelo de negocio |
-| 14 | Cuentas de margen, apalancamiento y venta en corto |
-| 15 | Cumplimiento: idoneidad, conflictos y abuso de mercado |
-| 16 | Un día en la casa de bolsa: de la preapertura al cierre contable |
+| 05 | La ruta de la orden: OMS, EMS y controles previos |
+| 06 | El protocolo FIX: el idioma de las órdenes |
+| 07 | El libro de órdenes y el motor de calce |
+| 08 | Conectarse a la bolsa: *gateways*, sesiones y acceso directo |
+| 09 | Datos de mercado: protocolos, proveedores y distribución |
+| 10 | Compensación y liquidación: entrega contra pago |
+| 11 | Custodia: dónde están tus acciones y quién lleva la cuenta |
+| 12 | Renta fija, reportos, fondos y divisas: otros mercados, otros sistemas |
+| 13 | El *back office* y el día de la casa de bolsa: de la preapertura al cierre contable |
+| 14 | La plataforma del cliente: apps, web y APIs |
+| 15 | Ciberseguridad y continuidad del negocio |
+| 16 | Tokenización de valores y liquidación con registros distribuidos |
+| 17 | Emisiones: la casa de bolsa como estructurador y colocador |
+| 18 | Comisiones, motor de cobro y modelo de negocio |
+| 19 | Cuentas de margen, apalancamiento y venta en corto |
+| 20 | Cumplimiento: idoneidad, conflictos y vigilancia automatizada |
